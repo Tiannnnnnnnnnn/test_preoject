@@ -1,0 +1,6 @@
+nohup: ignoring input
+Watching for file changes with StatReloader
+[29/Aug/2023 01:51:09] "GET /sales/ HTTP/1.1" 200 790791
+[29/Aug/2023 01:51:15] "GET /sales/ HTTP/1.1" 200 790791
+[29/Aug/2023 06:19:42] code 400, message Bad request syntax ('MGLNDD_43.138.181.188_8008')
+[29/Aug/2023 06:19:42] "MGLNDD_43.138.181.188_8008" 400 -
